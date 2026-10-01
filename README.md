@@ -2,9 +2,9 @@
 EEST N°1 Eduardo Ader | 5°3° A-B | Prof. Mansilla Muñoz York Elías y Yamil Ganduglia
 
 ## Integrantes G06
-- Malek Cheheid: informe APA v7 + R3 preg 1-2
-- Teo Laguna: src/main.cpp + compilación + capturas
-- Santiago Osma: R3 preg 3-5 + R4 PIA + CHANGELOG
+- Malek Cheheid: informe APA v7
+- Teo Laguna: Repositorio, compilacion y capturas
+- Santiago Osma: preguntas y Rs
 
 ## Retos
 1. Recursividad `sumaRecursiva(5)=15`
