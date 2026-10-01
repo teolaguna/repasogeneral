@@ -1,0 +1,15 @@
+# Actividad 6 - EEST1 LPR - Exclusiones obligatorias
+*.exe
+*.out
+.vscode/
+
+# Compilados C++
+*.o
+*.obj
+*.a
+*.so
+
+# Temporales
+*.tmp
+*.log
+.DS_Store
